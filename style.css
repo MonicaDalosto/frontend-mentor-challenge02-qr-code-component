@@ -32,6 +32,7 @@
   /* width: 350px; */
   /* height: 540px; */
   padding: 15px;
+  box-shadow: 0 10px 20px rgb(0 0 0 / 10%) /*suggested by @maqsudtolipov */
 }
 
 .qr-code-image {
